@@ -1,0 +1,48 @@
+{
+  "id": "df949648-3afb-47ec-9b40-531f48f0bf79",
+  "name": "My Visual Studio extensions",
+  "description": "A collection of my Visual Studio extensions",
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": "Clang Power Tools",
+      "vsixId": "Caphyon.705559db-5755-43fa-a023-41a3b14d2935"
+    },
+    {
+      "name": "ClangFormat",
+      "vsixId": "3cb18a5e-97e9-11e7-abc4-cec278b6b50a"
+    },
+    {
+      "name": "Color Theme Editor for Visual Studio 2019",
+      "vsixId": "VSColorThemeEditor.A8079E6E-373A-4C61-8A97-C8B72107906A"
+    },
+    {
+      "name": "Extension Manager 2019",
+      "vsixId": "4a196712-2c3f-4730-ad1d-e7cda4185eb2"
+    },
+    {
+      "name": "GLSL language integration",
+      "vsixId": "b62242eb-0ae5-4494-b013-6158ade63816"
+    },
+    {
+      "name": "ILSpy",
+      "vsixId": "a9120dbe-164a-4891-842f-fb7829273838"
+    },
+    {
+      "name": "IncludeToolbox",
+      "vsixId": "IncludeToolbox.Andreas Reich.075c2e2b-7b71-45ba-b2e6-c1dadc81cfac"
+    },
+    {
+      "name": "Live Share",
+      "vsixId": "Microsoft.VisualStudio.LiveShare"
+    },
+    {
+      "name": "llvm2019",
+      "vsixId": "llvm2019.36c7e004-3301-41f5-a2bf-06d018b89040"
+    },
+    {
+      "name": "Test Adapter for Catch2",
+      "vsixId": "VSTestAdapterCatch2.73ba8471-3771-47bf-bd23-49a1ba09af89"
+    }
+  ]
+}
